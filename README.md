@@ -7,6 +7,7 @@ Table of Contents
 # License
 # Deployed Site
 # Heroku URL
+# Video Link
 # Questions
 
 
@@ -42,6 +43,10 @@ https://lunarossie.github.io/Book--Search--Engine---/
 https://git.heroku.com/still-sea-84334.git
 https://dashboard.heroku.com/apps/still-sea-84334
 
+
+## Video Link
+
+https://www.youtube.com/watch?v=xekEsT4OCJ0
 
 
 ## Questions
